@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.web3j.protocol.Web3j"/>
+<fullyQualifiedTypeName name="org.web3j.protocol.http.HttpService"/>
+<fullyQualifiedTypeName name="org.web3j.protocol.core.methods.response.Web3ClientVersion"/>
+<fullyQualifiedTypeName name="org.web3j.protocol.core.methods.response.EthGasPrice"/>
+<fullyQualifiedTypeName name="org.web3j.protocol.core.methods.response.EthGetBalance"/>
+<fullyQualifiedTypeName name="org.web3j.utils.Convert"/>
+<fullyQualifiedTypeName name="java.math.BigDecimal"/>
+</qualifiedTypeNameHistroy>

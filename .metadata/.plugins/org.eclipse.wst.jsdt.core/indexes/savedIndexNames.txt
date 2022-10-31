@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+D:\Çõ\solidity\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3470991041.index
+3528758392.index
+1310505877.index
+3286451448.index
+3977468359.index
